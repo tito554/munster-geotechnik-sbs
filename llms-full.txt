@@ -1,0 +1,39 @@
+# Geotechnik — Munster
+
+> Geotechnical engineering services in Munster, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://munster.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://munster.geotechnik.sbs/aushub/)
+- [Aushub Monitoring](https://munster.geotechnik.sbs/aushub-monitoring/)
+- [Bodenplatten](https://munster.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://munster.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://munster.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://munster.geotechnik.sbs/cbr-strasse/)
+- [Erdbebenisolierung](https://munster.geotechnik.sbs/erdbebenisolierung/)
+- [Flexibler Belag](https://munster.geotechnik.sbs/flexibler-belag/)
+- [Fundamente](https://munster.geotechnik.sbs/fundamente/)
+- [Geophysik](https://munster.geotechnik.sbs/geophysik/)
+- [Grundungen](https://munster.geotechnik.sbs/grundungen/)
+- [Hange](https://munster.geotechnik.sbs/hange/)
+- [Korngrossenanalyse](https://munster.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://munster.geotechnik.sbs/labor/)
+- [Labor In Situ](https://munster.geotechnik.sbs/labor-in-situ/)
+- [Pfahle](https://munster.geotechnik.sbs/pfahle/)
+- [Plattendruckversuch](https://munster.geotechnik.sbs/plattendruckversuch/)
+- [Sandkegel Dichte](https://munster.geotechnik.sbs/sandkegel-dichte/)
+- [Schottersaulen](https://munster.geotechnik.sbs/schottersaulen/)
+- [Seismik](https://munster.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://munster.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://munster.geotechnik.sbs/seismische-refraktion/)
+- [Strassenbau](https://munster.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://munster.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://munster.geotechnik.sbs/tiefe-aushube/)
+- [Widerstand](https://munster.geotechnik.sbs/widerstand/)
+
+## Contact
+- Website: https://munster.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Munster, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
